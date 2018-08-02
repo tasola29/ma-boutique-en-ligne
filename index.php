@@ -10,7 +10,7 @@
 
 	<link rel="stylesheet" href="style.css">
 	
-    <title>Ma boutique</title>
+    <title>Ma boutique en ligne</title>
   </head>
   <body>
 	
